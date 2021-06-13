@@ -1,0 +1,8 @@
+Alain Prost;51;202;France
+Ayrton Senna;41;162;Brazil
+Fernando Alonso;32;319;Spain
+Jim Clark;25;73;Great Britain
+Lewis Hamilton;98;271;Great Britain
+Michael Schumacher;91;308;Germany
+Niki Lauda;25;177;Austria
+Sebastian Vettel;53;263;Germany

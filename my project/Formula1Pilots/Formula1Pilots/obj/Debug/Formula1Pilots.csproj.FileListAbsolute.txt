@@ -1,0 +1,15 @@
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\bin\Debug\Formula1Pilots.exe.config
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\bin\Debug\Formula1Pilots.exe
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\bin\Debug\Formula1Pilots.pdb
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\obj\Debug\Formula1Pilots.csprojAssemblyReference.cache
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\obj\Debug\MainWindow.g.cs
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\obj\Debug\App.g.cs
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\obj\Debug\Formula1Pilots_MarkupCompile.cache
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\obj\Debug\Formula1Pilots_MarkupCompile.lref
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\obj\Debug\MainWindow.baml
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\obj\Debug\Formula1Pilots.g.resources
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\obj\Debug\Formula1Pilots.Properties.Resources.resources
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\obj\Debug\Formula1Pilots.csproj.GenerateResource.cache
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\obj\Debug\Formula1Pilots.csproj.CoreCompileInputs.cache
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\obj\Debug\Formula1Pilots.exe
+J:\asztali_app\my project\Formula1Pilots\Formula1Pilots\obj\Debug\Formula1Pilots.pdb
